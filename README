@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=831
+
+xmaslights.vim is a Python script for Vim that make your text appear as animated Christmas lights.  It changes the color of the different syntax highliting components randomly on a timer/loop.  It was tested with the win32 gvim binary and may need modification to work on other platforms.
